@@ -1,0 +1,6 @@
+C:\Users\huythanh\source\repos\GUI_Layer\DAL\bin\Debug\DAL.dll
+C:\Users\huythanh\source\repos\GUI_Layer\DAL\bin\Debug\DAL.pdb
+C:\Users\huythanh\source\repos\GUI_Layer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\huythanh\source\repos\GUI_Layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\huythanh\source\repos\GUI_Layer\DAL\obj\Debug\DAL.dll
+C:\Users\huythanh\source\repos\GUI_Layer\DAL\obj\Debug\DAL.pdb
